@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "JavaSC",
+			"path": "../../../../JavaSC"
+		},
+		{
+			"name": "HTML-CSS",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
