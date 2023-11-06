@@ -1,2 +1,4 @@
-# HTML-CSS
- Curso de HTML5 e CSS3 do Curso em Video
+# Cardápio-Online
+
+Um repositorio com estudos de HTML e CSS, feito pelo curso em vídeo.
+
